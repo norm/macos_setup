@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>MJKeepConsoleOnTopKey</key>
+    <true/>
+    <key>NSToolbar Configuration Console Default</key>
+    <dict>
+        <key>TB Display Mode</key>
+        <integer>1</integer>
+        <key>TB Icon Size Mode</key>
+        <integer>1</integer>
+        <key>TB Is Shown</key>
+        <integer>1</integer>
+        <key>TB Size Mode</key>
+        <integer>1</integer>
+    </dict>
+    <key>SUHasLaunchedBefore</key>
+    <true/>
+</dict>
+</plist>

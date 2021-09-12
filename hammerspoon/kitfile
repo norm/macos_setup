@@ -1,0 +1,12 @@
+section     Installing Hammerspoon
+remind      Hammerspoon needs Accessibility access enabling before it can resize windows.
+
+brewfile
+
+clone       github:norm/hammerspoon-config  ~/etc/hammerspoon
+symlink     ~/etc/hammerspoon/$HOST.lua     ~/etc/hammerspoon/init.lua
+symlink     ~/etc/hammerspoon               ~/.hammerspoon
+
+install     hammerspoon.plist   ~/Library/Preferences/org.hammerspoon.Hammerspoon.plist
+
+start       Hammerspoon

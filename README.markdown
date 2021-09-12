@@ -8,6 +8,7 @@ setup from scratch.
 ## Applied using [kitout][ko]:
 
 * antirsi/
+* hammerspoon/
 
 
 [ko]: https://github.com/norm/kitout
