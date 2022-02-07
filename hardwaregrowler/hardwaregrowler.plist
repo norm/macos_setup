@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisabledPlugins</key>
+	<dict>
+		<key>com.growl.hardwaregrowler.BluetoothMonitor</key>
+		<true/>
+		<key>com.growl.hardwaregrowler.FirewireMonitor</key>
+		<true/>
+	</dict>
+	<key>hwgkeyboardkeysenabled</key>
+	<dict>
+		<key>capslock</key>
+		<true/>
+		<key>fnkey</key>
+		<false/>
+		<key>shiftkey</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+section     Hardware Growler
+
+run         install.sh
+install     hardwaregrowler.plist   ~/LibraryContainers/com.growl.hardwaregrowler/Data/Library/Preferences/com.growl.hardwaregrowler.plist
+
+loginitem   HardwareGrowler
+start       HardwareGrowler
