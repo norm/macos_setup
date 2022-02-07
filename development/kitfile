@@ -1,0 +1,8 @@
+section         Development tools
+
+install         xscope.plist    ~/Library/Containers/com.iconfactory.mac.xScope/Data/Library/Preferences/com.iconfactory.mac.xScope.plist
+
+brewfile
+
+remind          Kaleidoscope licence is stored in 1Password.
+start           Kaleidoscope

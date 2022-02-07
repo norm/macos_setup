@@ -1,0 +1,16 @@
+mas 'xScope 4',             id: 889428659
+mas 'Markoff',              id: 1084713122
+mas 'Pixelmator Classic',   id: 407963104
+
+cask 'kaleidoscope'
+cask 'rowanj-gitx'
+
+brew 'bash-completion'
+brew 'colordiff'
+brew 'entr'
+brew 'git'
+brew 'jq'
+brew 'lesspipe'
+brew 'ripgrep'
+brew 'rsync'
+brew 'watch'
