@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bookmarks</key>
+	<array/>
+	<key>BookmarksVisible</key>
+	<false/>
+	<key>ColorScheme</key>
+	<integer>2</integer>
+	<key>DirectoryAlias</key>
+	<data>
+	AAAAAAD+AAIAAQd2YW5zdGVyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQkQAAf////8F
+	Tm90ZXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAA/////wAAAAAAAAAAAAAAAAABAAIAAAogY3UAAAAAAAAAAAAAAAAA
+	BG5vcm0AAgATLzpVc2Vyczpub3JtOk5vdGVzLwAADgAMAAUATgBvAHQAZQBzAA8AEAAH
+	AHYAYQBuAHMAdABlAHIAEgAQVXNlcnMvbm9ybS9Ob3RlcwATAAEvAAAVAAIAC///AAA=
+	</data>
+	<key>HorizontalLayout</key>
+	<true/>
+	<key>LastScrollOffset</key>
+	<real>0.0</real>
+	<key>LastSearchString</key>
+	<string></string>
+	<key>LastSelectedNoteUUIDBytes</key>
+	<string>37A92A05-8140-4ABF-B4EB-58D448FB5E72</string>
+	<key>LastSelectedPrefsPane</key>
+	<string>General</string>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Notes</string>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{800, 448}</string>
+	<key>NSSplitView Subview Frames NSColorPanelSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 224.000000, 258.000000, NO, NO</string>
+		<string>0.000000, 259.000000, 224.000000, 48.000000, NO, NO</string>
+	</array>
+	<key>NSTableView Columns v3 unifiedNotesTable</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABqwsMEh0eHyAhIiMpVSRudWxs
+	0g0ODxFaTlMub2JqZWN0c1YkY2xhc3OhEIACgArTEw0OFBgcV05TLmtleXOjFRYXgAOA
+	BIAFoxkaG4AGgAeACIAJWklkZW50aWZpZXJVV2lkdGhWSGlkZGVuVVRpdGxlI0CFYAAA
+	AAAACNIkJSYnWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oiYoWE5TT2Jq
+	ZWN00iQlKiteTlNNdXRhYmxlQXJyYXmjKiwoV05TQXJyYXkACAARABoAJAApADIANwBJ
+	AEwAUgBUAGAAZgBrAHYAfQB/AIEAgwCKAJIAlgCYAJoAnACgAKIApACmAKgAswC5AMAA
+	xgDPANAA1QDgAOkA9gD5AQIBBwEWARoAAAAAAAACAQAAAAAAAAAtAAAAAAAAAAAAAAAA
+	AAABIg==
+	</data>
+	<key>NSTableView Sort Ordering v2 unifiedNotesTable</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABowsMEVUkbnVsbNINDg8QWk5T
+	Lm9iamVjdHNWJGNsYXNzoIAC0hITFBVaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFi
+	bGVBcnJheaMUFhdXTlNBcnJheVhOU09iamVjdAgRGiQpMjdJTFJUWF5jbnV2eH2IkaCk
+	rAAAAAAAAAEBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAC1
+	</data>
+	<key>NSTableView Supports v2 unifiedNotesTable</key>
+	<true/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>880 725 800 448 0 0 2560 1415 </string>
+	<key>NSWindow Frame NotationWindow</key>
+	<string>273 337 716 623 0 0 2560 1415 </string>
+	<key>NSWindow Frame externallyDeletedNotesTable</key>
+	<string>1094 873 371 250 0 0 2560 1415 </string>
+	<key>RBSplitView H centralSplitView</key>
+	<string>2 228 359.1</string>
+	<key>RBSplitView V centralSplitView</key>
+	<string>2 257.849 450.151</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>https://updates.designheresy.com/nvalt/updates.xml</string>
+	<key>SULastCheckTime</key>
+	<date>2021-09-13T05:06:13Z</date>
+	<key>TabKeyIndents</key>
+	<false/>
+	<key>TextEditor</key>
+	<string>Default</string>
+	<key>ToolbarHidden</key>
+	<false/>
+	<key>TriedToImportBlor</key>
+	<true/>
+	<key>UseMarkdownImport</key>
+	<true/>
+	<key>UseReadability</key>
+	<true/>
+	<key>WebKitDeveloperExtras</key>
+	<true/>
+	<key>markupPreviewVisible</key>
+	<false/>
+</dict>
+</plist>

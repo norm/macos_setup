@@ -1,0 +1,4 @@
+mas 'Simplenote',           id: 692867256
+
+cask 'nvalt'
+cask 'sublime-text'
