@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutomaticSpellingCorrectionEnabled</key>
+	<false/>
+	<key>ClipMergeEnabled</key>
+	<false/>
+	<key>ClipboardHistoryCapacity</key>
+	<integer>20</integer>
+	<key>ClipboardHistoryPreferPlainText</key>
+	<true/>
+	<key>ContinuousSpellCheckingEnabled</key>
+	<false/>
+	<key>GrammarCheckingEnabled</key>
+	<false/>
+	<key>InstantOpenThreshold</key>
+	<integer>12878652</integer>
+	<key>ItemListVisibleRows</key>
+	<real>20</real>
+	<key>ItemListVisibleRowsWhileBrowsing</key>
+	<real>20</real>
+	<key>LastSelectedPreferencesTab</key>
+	<string>general</string>
+	<key>LaunchBarHorizontalPosition</key>
+	<real>0.5</real>
+	<key>LaunchBarHotKeyEnabled</key>
+	<true/>
+	<key>LaunchBarVerticalPosition</key>
+	<real>0.8904109589041096</real>
+	<key>LaunchBarWindowLastScreenID</key>
+	<integer>69988244</integer>
+	<key>LaunchBarWindowWidth</key>
+	<real>722</real>
+	<key>PasteClipboardHistoryHotKeyEnabled</key>
+	<false/>
+	<key>RetypeDelay</key>
+	<real>3</real>
+	<key>SelectFromClipboardHistoryHotKey</key>
+	<string>6400@49</string>
+	<key>ShowClipboardHistoryHotKey</key>
+	<string>2304@8</string>
+	<key>ShowClipboardHistoryHotKeyEnabled</key>
+	<false/>
+	<key>ShowItemListSubtitles</key>
+	<true/>
+	<key>SpotlightHotKeyEnabled</key>
+	<false/>
+	<key>SwitchToCalculatorAutomatically</key>
+	<false/>
+	<key>SwitchToCalculatorWithEqualsSign</key>
+	<true/>
+	<key>Theme</key>
+	<string>at.obdev.LaunchBar.theme.Sunny</string>
+	<key>UserDefaultsVersion</key>
+	<integer>6</integer>
+	<key>WelcomeWindowVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

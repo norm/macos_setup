@@ -1,0 +1,15 @@
+section LaunchBar
+
+brewfile
+
+install     launchbar.plist     ~/Library/Preferences/at.obdev.LaunchBar.plist
+unzip       safari.zip          ~/Scripts
+unzip       terminal.zip        ~/Scripts
+
+dock_add    1   LaunchBar
+
+loginitem   LaunchBar
+start       LaunchBar
+
+remind      Change Spotlight keyboard shortcut to Cmd+Opt+Space.
+remind      Add ~/Scripts to LaunchBar index (activate, Cmd+Opt+I).
