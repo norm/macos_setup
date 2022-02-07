@@ -9,4 +9,5 @@ symlink     ~/etc/hammerspoon               ~/.hammerspoon
 
 install     hammerspoon.plist   ~/Library/Preferences/org.hammerspoon.Hammerspoon.plist
 
+loginitem   Hammerspoon
 start       Hammerspoon

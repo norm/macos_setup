@@ -8,4 +8,5 @@ install     antirsi.plist   ~/Library/Preferences/com.onnlucky.antirsi.plist
             #mn   hr    dom   mon   dow   cmd
 cron_entry  */5   *     *     *     *     antirsi
 
-start       AntiRSI
+dock_add    2       AntiRSI
+start               AntiRSI
