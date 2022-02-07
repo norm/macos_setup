@@ -1,0 +1,5 @@
+cask 'font-assistant'
+cask 'font-lato'
+cask 'font-pt-serif'
+cask 'font-raleway'
+cask 'font-vollkorn'

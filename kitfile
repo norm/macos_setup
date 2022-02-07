@@ -16,4 +16,7 @@ text/
 # large downloads come last
 iwork/
 
+# fonts uses files from Dropbox
+fonts/
+
 section         Done.

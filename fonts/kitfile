@@ -1,0 +1,6 @@
+section         Custom fonts
+alert           Allow Dropbox to finish syncing before installing fonts.
+
+brewfile
+
+run     install.sh
