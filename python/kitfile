@@ -1,0 +1,5 @@
+section     Install Python 3
+
+clone       github:asdf-vm/asdf     ~/var/asdf
+
+run         install.sh

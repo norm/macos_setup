@@ -1,0 +1,7 @@
+Django
+honcho
+virtualenv
+virtualenvwrapper
+Pygments
+Flask
+libsass
