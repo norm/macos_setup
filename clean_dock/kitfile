@@ -1,0 +1,12 @@
+section         Clean up Dock
+
+dock_remove     Contacts
+dock_remove     FaceTime
+dock_remove     Maps
+dock_remove     Messages
+dock_remove     Music
+dock_remove     News
+dock_remove     Notes
+dock_remove     Podcasts
+dock_remove     Reminders
+dock_remove     TV
