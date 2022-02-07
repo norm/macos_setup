@@ -1,0 +1,15 @@
+section     Browser setup
+
+shortcuts   com.apple.Safari        Safari
+
+brewfile
+
+dock_add    8   Reeder
+
+remind      Turn on Magic Lasso Safari extensions.
+remind      Turn on Reeder Safari extensions.
+remind      Load Cloud settings from DuckDuckGo.
+
+start       Instapaper Save
+remind      Turn on Instapaper Save Safari extension.
+alert       Log into Instapaper
