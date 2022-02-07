@@ -1,0 +1,17 @@
+section     Dropbox
+
+echo        Don't allow notifications for Dropbox when first syncing,
+echo        it will constantly update you with "Files added" popups.
+echo
+echo        Dropbox will ask for permission to control your Mac two ways:
+echo        1. Accessibility access via System Preferences.
+echo        2. Repeated prompts for your password to gain admin access.
+echo
+alert       Do not allow either, it will sync files just fine without.
+
+remind      Turn on Dropbox notifications once sync has finished.
+
+brewfile
+
+start       Dropbox
+alert       Get Dropbox syncing files before continuing.
