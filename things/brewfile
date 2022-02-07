@@ -1,0 +1,3 @@
+mas 'Things 3',             id: 904280696
+
+cask 'thingsmacsandboxhelper'

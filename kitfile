@@ -1,7 +1,8 @@
 brew_update
 
-# set dropbox syncing first
+# start apps that sync things first so they can do that in the background
 dropbox/
+things/
 
 homedir/
 clean_dock/

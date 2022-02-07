@@ -1,0 +1,13 @@
+# cmd-1 feels right for the today view, renumber
+cmd-0           Inbox
+cmd-1           Today
+cmd-2           Upcoming
+cmd-3           Anytime
+cmd-4           Someday
+cmd-5           Logbook
+
+# too many things using N
+cmd-shift-h     New Heading
+
+# [R]eschedule
+cmd-r           When…

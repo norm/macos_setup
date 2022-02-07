@@ -1,0 +1,10 @@
+section     Things
+
+brewfile
+
+shortcuts   com.culturedcode.ThingsMac      Things
+dock_add    6                               Things3
+
+start       Things3
+start       ThingsMacSandboxHelper
+alert       Sign into Things Cloud.
