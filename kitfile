@@ -3,4 +3,7 @@ brew_update
 antirsi/
 hammerspoon/
 
+# large downloads come last
+iwork/
+
 section         Done.
