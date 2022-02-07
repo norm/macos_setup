@@ -1,0 +1,8 @@
+section     Docker Desktop
+
+brewfile
+
+loginitem   Docker
+start       Docker
+
+remind      Docker licence is in 1Password.

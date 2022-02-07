@@ -15,6 +15,7 @@ hardwaregrowler/
 text/
 
 # large downloads come last
+docker/
 iwork/
 
 # fonts uses files from Dropbox
