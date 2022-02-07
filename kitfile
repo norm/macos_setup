@@ -3,6 +3,8 @@ brew_update
 # set dropbox syncing first
 dropbox/
 
+homedir/
+
 antirsi/
 hammerspoon/
 

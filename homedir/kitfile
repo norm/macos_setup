@@ -1,0 +1,6 @@
+section     Setup homedir
+
+clone       github:norm/bash-composition
+clone       github:norm/homedir
+
+run         install.sh
