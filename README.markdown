@@ -40,7 +40,8 @@ Documents/macos/copy_prefs.sh
 Restart the computer, log into the primary account.
 
 * App Store → Store → Sign in; download 1Password, and unlock it.
-* System Preferences → Security & Privacy → Full Disk Access → add Terminal.
+* System Preferences → Security & Privacy → Privacy → Full Disk Access → add Terminal.
+* System Preferences → Security & Privacy → Privacy → Accessibility → add Terminal.
 * Open Terminal.
 
 ```bash
