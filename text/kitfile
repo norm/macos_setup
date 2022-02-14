@@ -7,10 +7,11 @@ clone       github:norm/notes   ~/Notes
 install     nvalt.plist         ~/Library/Preferences/net.elasticthreads.nv.plist
 # FIXME copy over Sublime Text settings
 
+start       nvALT
+
 dock_add    4   nvAlt
 dock_add    5   Sublime Text
 
 assign_all  nvALT
-start       nvALT
 
 remind      Enter details in nvALT for syncing to Simplenote.
