@@ -6,3 +6,4 @@
 )
 
 brew tap homebrew/cask-fonts
+brew install dockutil
